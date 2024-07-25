@@ -4,7 +4,7 @@
 - store more than one values/data in a single variable
 - collection primitive datatypes or objects
 
-## Systax
+## Syntax
 - datatype[] vaiableName = new datatype[size];
 - ex: store 5 rollnos
 ```
